@@ -301,7 +301,6 @@
     <string name="always_ask_open_action_key" translatable="false">always_ask_player</string>
 
     <string-array name="preferred_open_action_description_list" translatable="false">
-        <item>@string/show_info</item>
         <item>@string/video_player</item>
         <item>@string/background_player</item>
         <item>@string/popup_player</item>
@@ -309,7 +308,6 @@
         <item>@string/always_ask_open_action</item>
     </string-array>
     <string-array name="preferred_open_action_values_list" translatable="false">
-        <item>@string/show_info_key</item>
         <item>@string/video_player_key</item>
         <item>@string/background_player_key</item>
         <item>@string/popup_player_key</item>
